@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  ExplosiveKittens
+
+  Created by Victor Pelivan on 28.11.2021.
+  
+*/
+
+// MARK: - StartGameScreen
+
+"StartGame.createGame" = "Create Game";
+"StartGame.joinGame" = "Join Game";
+"StartGame.gameSettings" = "Game Settings";
